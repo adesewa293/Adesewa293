@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adesewa Aishat</h1>
 <h3 align="center">A passionate frontend developer who has a keen eye for details. I enjoy tackling complex problems and building innovative solutions that have a positive impact. With a strong background in React & NextJS, I strive to continuously learn and stay up-to-date with the latest advancements in the field.</h3>
 
-- 🌱 I’m currently learning **Other frontend frameworks like GraphQL, Writing tests with tools like Jest, Cypress (for E2E), component test with react-testing-library, Unit Angular and VueJS**
+- 🌱 I’m currently learning **Other frontend frameworks like GraphQL, Writing tests with tools like Jest and Cypress (for E2E), component test with react-testing-library, Unit Angular and VueJS**
 
 - 👨‍💻 All of my projects are available at [adesewa-portfolio.vercel.app](adesewa-portfolio.vercel.app)
 
